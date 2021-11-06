@@ -16,16 +16,23 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-💻
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Lee%20&fontSize=90&fontColor=A0C5FB&animation=fadeIn"/>
+ 🙃💻🙃
+ 
+ #
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D0D3D4&height=250&section=header&text=Lee%20&fontSize=90&fontColor=000000&animation=fadeIn"/>
 
 
-#
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=nord) -->
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=graywhite) 
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv00&layout=compact&theme=graywhite&langs_count=6)
+  
+ 
+  
+
 </div>
 
 
