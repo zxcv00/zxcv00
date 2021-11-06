@@ -1,4 +1,4 @@
-### 💻
+
 
 <!--
 **zxcv00/zxcv00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div align=center>
-
- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+💻
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=250&section=header&text=Lee%20&fontSize=90&fontColor=A0C5FB&animation=fadeIn"/>
 
 
 #
