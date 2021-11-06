@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C2C7CA &height=250&section=header&text=Lee%20&animation=fadeIn&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BAD0E1&height=250&section=header&text=Lee%20&animation=fadeIn&fontSize=90" />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=graywhite)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=nord)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv00&layout=compact&theme=graywhite)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv00&layout=compact&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 
