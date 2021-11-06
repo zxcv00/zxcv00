@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=90ABD9&height=250&section=header&text=Lee%20&fontColor=A0C5FB&animation=fadeIn&fontSize=90" />
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?  type=transparent&color=90ABD9&height=250&section=header&text=Lee%20&fontColor=A0C5FB&animation=fadeIn&fontSize=90" />
 
 #
 
-
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=nord) -->
 
-<div align=center>
+
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxcv00&layout=compact&theme=graywhite&langs_count=6)
 </div>
 
