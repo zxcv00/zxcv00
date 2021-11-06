@@ -1,4 +1,3 @@
-<div align=center>
 ### 💻
 
 <!--
@@ -16,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-  <img src="https://capsule-render.vercel.app/api?  type=transparent&color=90ABD9&height=200&section=header&text=Lee%20&fontColor=A0C5FB&animation=fadeIn&fontSize=90" />
+<div align=center>
+ <img src="https://capsule-render.vercel.app/api?  type=transparent&color=90ABD9&height=200&section=header&text=Lee%20&fontColor=A0C5FB&animation=fadeIn&fontSize=90" />
 
 #
 
