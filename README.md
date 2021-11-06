@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BAD0E1&height=250&section=header&text=Lee%20&fontColor= FFFFF&animation=fadeIn&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BAD0E1&height=250&section=header&text=Lee%20&fontColor=FFFFFF&animation=fadeIn&fontSize=90" />
 
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxcv00&show_icons=true&theme=nord) -->
